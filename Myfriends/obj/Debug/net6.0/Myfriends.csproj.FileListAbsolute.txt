@@ -1,0 +1,5 @@
+/Users/stanislavzabin/Documents/Project/Myfriends/Myfriends/obj/Debug/net6.0/Myfriends.csprojAssemblyReference.cache
+/Users/stanislavzabin/Documents/Project/Myfriends/Myfriends/obj/Debug/net6.0/Myfriends.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavzabin/Documents/Project/Myfriends/Myfriends/obj/Debug/net6.0/Myfriends.AssemblyInfoInputs.cache
+/Users/stanislavzabin/Documents/Project/Myfriends/Myfriends/obj/Debug/net6.0/Myfriends.AssemblyInfo.cs
+/Users/stanislavzabin/Documents/Project/Myfriends/Myfriends/obj/Debug/net6.0/Myfriends.csproj.CoreCompileInputs.cache
