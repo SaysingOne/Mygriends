@@ -25,7 +25,7 @@ Console.Clear();
 
 name = "Ksusha";
 birthday = 08.04;
-age = 30;
+age = 31;
 smoking = false;
 
 Console.WriteLine($"Имя: {name}, День рождения: {birthday}, Возраст: {age}old, Курит: {smoking}");
